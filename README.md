@@ -1,0 +1,2 @@
+# Specs
+Test podspecs repo
